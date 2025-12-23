@@ -1,6 +1,6 @@
 ## Hello World :D
 
-I like to write code that solve human problems.
+I like to write code that solves human problems.
 
 I recently worked on [AI that detects dementia from walking patterns](http://hdl.handle.net/11375/31617)
 
