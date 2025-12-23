@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello World :D
 
-<!--
-**ronald-luo/ronald-luo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to write code that solves human problems.
 
-Here are some ideas to get you started:
+I recently worked on [AI that detects dementia from walking pattterns](http://hdl.handle.net/11375/31617)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+- Building globally accessible MCAT prep at [MedBrewery](https://www.medbrewery.ca/)
+- Writing essays on [my blog](https://www.ronald-luo.com/)
+- Working through [100 Websites](https://www.ronald-luo.com/blog/100-websites) inspired by Jennifer Dewalt's [180 websites in 180 days](https://jenniferdewalt.com/)
+- Competing in [Advent of Code](https://adventofcode.com/), check out [my solutions](https://github.com/ronald-luo/advent-of-code)!
+
+## Links
+Website: [www.ronald-luo.com](https://www.ronald-luo.com/)  
+LinkedIn: [www.linkedin.com/in/ronald-luo](https://www.linkedin.com/in/ronald-luo/)
